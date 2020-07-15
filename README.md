@@ -1,4 +1,4 @@
-### Sic Mundus Creatus Est 👋
+### Sic Mundus Creatus Est :milky_way:
 
 
 <!--
