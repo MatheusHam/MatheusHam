@@ -1,4 +1,4 @@
-:milky_way: Sic Mundus Creatus Est :milky_way:
+<p align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<p>
 
 
 
