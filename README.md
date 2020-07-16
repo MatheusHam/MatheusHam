@@ -1,9 +1,5 @@
 <p align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<p>
 
-<div float="left">Python</div>
-
-<div float="right">Java</div>
- 
   
 
 <!--
