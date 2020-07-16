@@ -2,7 +2,7 @@
 
 <div float="left">Python</div>
 
-<div float="left">Java</div>
+<div float="right">Java</div>
  
   
 
