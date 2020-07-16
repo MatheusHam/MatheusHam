@@ -1,18 +1,6 @@
 ### Sic Mundus Creatus Est :milky_way:
 
-Studies :book:
 
-Python 
-  - Django
-  - Flask
-  - SciKit
-  - Pandas
-  
-  
-JavaScript
-
-
-NodeJs
 
   
 
