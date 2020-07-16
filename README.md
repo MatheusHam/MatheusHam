@@ -1,5 +1,9 @@
 <h1 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h1>
-  
+
+* Python
+* JavaScript
+* APEX
+
 
 <!--
 **PresHam/PresHam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
