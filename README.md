@@ -1,9 +1,4 @@
-<p align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<p>
-
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<p>Python</p>              |  <p>JavaScript</p
+<h1 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h1>
   
 
 <!--
