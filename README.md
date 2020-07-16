@@ -1,6 +1,20 @@
 ### Sic Mundus Creatus Est :milky_way:
 
-[x] Salesforce
+Studies :book:
+
+Python 
+  - Django
+  - Flask
+  - SciKit
+  - Pandas
+  
+  
+JavaScript
+
+
+NodeJs
+
+  
 
 <!--
 **PresHam/PresHam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
