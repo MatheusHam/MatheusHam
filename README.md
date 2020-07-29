@@ -1,7 +1,8 @@
+<h3 align="center">Roadmap<h3>
 
-
-
-
+[x] Python
+[x] JavaScript
+[ ] GoLang
 
 <h4 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h4>
   
