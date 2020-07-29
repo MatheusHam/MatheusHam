@@ -1,14 +1,15 @@
 <h1 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h1>
 
-<div>
-  <p style="background-color: red">Know Skills<p>
-</div>
-
 ```python
 
 from future import past as present
 
 ```
+
+<div>
+  <p color="red">Know Skills<p>
+</div>
+
 
 <!--
 **PresHam/PresHam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
