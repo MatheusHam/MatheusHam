@@ -6,11 +6,6 @@ from future import past as present
 
 ```
 
-<div>
-  <p color="red">Know Skills<p>
-</div>
-
-
 <!--
 **PresHam/PresHam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
