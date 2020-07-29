@@ -1,4 +1,4 @@
-<h2 align="center" color="red"><h2>
+<h2>Learning.<h2>
   
 <h4 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h4>
   
