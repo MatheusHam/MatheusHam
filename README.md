@@ -1,9 +1,5 @@
-<h3 align="center">Roadmap<h3>
-
-[x] Python
-[x] JavaScript
-[ ] GoLang
-
+<h3 align="center" color="red">Roadmap<h3>
+  
 <h4 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h4>
   
 ```python
