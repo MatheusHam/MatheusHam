@@ -2,7 +2,7 @@
   
 <h4 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h4>
   
-![Alt text](https://i.imgur.com/0rM6TJi.png)
+<img align="center">![Alt text](https://i.imgur.com/0rM6TJi.png)</img>
   
   
 ```python
