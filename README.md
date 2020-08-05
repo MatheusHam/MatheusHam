@@ -2,8 +2,7 @@
   
 <h4 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h4>
   
-  
-[Imgur](https://i.imgur.com/dgYycR8.png)
+![Screenshot](https://imgur.com/dgYycR8)
   
   
   
