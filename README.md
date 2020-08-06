@@ -5,10 +5,4 @@
   
 ```python
 from future import past as present
-
-
-class Human(GodImage):
-  def __init__(self):
-    self.omniscient = False
-    super().__init__(self.omniscient)
 ```
