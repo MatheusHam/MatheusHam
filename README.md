@@ -1,7 +1,4 @@
-<h2 style={color: "red"}>Learning.<h2>
-
-
-<p>Matheus Rodrigues Rugolo, 29, Developing back-end stuff for Greenpeace Brasil.<p>
+<p>Developing back-end stuff for Greenpeace Brasil.<p>
 
 
 <h4>Side Projects<h4>
