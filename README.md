@@ -1,4 +1,4 @@
-<p align="center">Developing back-end stuff for Greenpeace Brasil.<p>
+<p align="center" font-weight="bold" >Developing back-end stuff for Greenpeace Brasil.<p>
 
 
 <h4>Side Projects<h4>
