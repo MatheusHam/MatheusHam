@@ -1,4 +1,4 @@
-<h2>Learning.<h2>
+<h2 style={color: "red"}>Learning.<h2>
 
 
 <p>Matheus Rodrigues Rugolo, 29, Developing back-end stuff for Greenpeace Brasil.<p>
@@ -15,7 +15,7 @@
 - [C Projects](https://github.com/rby90/Project-Based-Tutorials-in-C)
   
   
-<h4 align="center" style="color: red">:milky_way: Sic Mundus Creatus Est :milky_way:<h4> 
+<h4 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h4> 
   
 ```python
 from future import past as present
