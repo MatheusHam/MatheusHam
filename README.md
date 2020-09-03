@@ -1,5 +1,7 @@
 <p align="center" style="font-weight:bold" >Developing back-end stuff for Greenpeace Brasil.<p>
 <a href="https://www.linkedin.com/in/matheus-rugolo-299a95a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  
+<p>Focused on learning the fundamentals with a banking background, deeply involved into data projects with pipelines using Python/Flask and JavaScript/NodeJS APIs.</p>
 
 <h4>Side Projects<h4>
   
