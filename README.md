@@ -15,6 +15,4 @@
 from future import past as present
 ```
 
-
-<iframe src="https://giphy.com/embed/Z9iEskuA1nmozYf806" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Z9iEskuA1nmozYf806">via GIPHY</a></p>
-![Alt Text](https://giphy.com/gifs/Z9iEskuA1nmozYf806)
+![Alt Text](https://media.giphy.com/media/Z9iEskuA1nmozYf806/giphy.gif)
