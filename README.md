@@ -16,4 +16,4 @@ from future import past as present
 ```
 
 ![Alt Text](https://media.giphy.com/media/Z9iEskuA1nmozYf806/giphy.gif)
-<p float="right">This is a test</p>
+<p float="left">This is a test</p>
