@@ -22,4 +22,4 @@
 from future import past as present
 ```
 
-<img src="https://media.giphy.com/media/Z9iEskuA1nmozYf806/giphy.gif" align="center">
+<img align="center" src="https://media.giphy.com/media/Z9iEskuA1nmozYf806/giphy.gif">
