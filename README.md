@@ -5,7 +5,7 @@
 <h4>Side Projects<h4>
   
 - [Dapp Brazilian Gallery (React, Solidity, GraphQL)](https://brgallery.netlify.app/)
-- [WebApp Covid Data](https://brasil-covid.herokuapp.com/)
+- [WebApp Covid Data (inactive)](https://brasil-covid.herokuapp.com/)
 
 
 <h4>Currently Studying<h4>
