@@ -14,8 +14,7 @@
 - Solidity
 - Blockchain Core
 - Eth Whitepaper/implementation
-- NFTS State of art.
-  
+
 <h4 align="center">:milky_way: Sic Mundus Creatus Est :milky_way:<h4> 
   
 ```python
